@@ -1,4 +1,4 @@
-package com.example.newsapp;
+package com.example.playo;
 
 import android.content.Context;
 import android.view.LayoutInflater;

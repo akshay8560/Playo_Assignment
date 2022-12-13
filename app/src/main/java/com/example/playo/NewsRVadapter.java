@@ -1,4 +1,4 @@
-package com.example.newsapp;
+package com.example.playo;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,7 +13,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.squareup.picasso.Picasso;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class NewsRVadapter extends RecyclerView.Adapter<NewsRVadapter.ViewHolder> {  //1
